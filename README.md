@@ -14,7 +14,7 @@ The **Housing in Mexico** project focuses on analyzing and visualizing housing d
 
 To use this project:
 
-1. Clone the repository: `git clone https://github.com/ashraf635sakr/housing-in-mexico.git`
+1. Clone the repository: `git clone https://github.com/Houssam-123-ship-it/housing-in-mexico.git`
 
 
 ## Data
